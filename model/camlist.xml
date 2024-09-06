@@ -164,4 +164,9 @@
     <width>13.2</width>
     <height>8.8</height>
   </model>
+   <model>
+    <name>M3M</name>
+    <width>17.4</width>
+    <height>13</height>
+  </model>
 </camlist>
